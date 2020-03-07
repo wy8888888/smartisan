@@ -1,0 +1,438 @@
+{
+    "data": [
+        {
+            "classifyId": 150,
+            "classifyName": "手机数码",
+            "banner": [],
+            "sort": 0,
+            "second": [
+                {
+                    "classifyId": 151,
+                    "classifyName": "坚果手机",
+                    "sort": 0,
+                    "third": [
+                        {
+                            "classifyId": 304,
+                            "classifyName": "坚果 Pro 3",
+                            "image": "https://resource.smartisan.com/resource/f195e666e089d4e3775ce67d8e9523ce.png",
+                            "sort": 3,
+                            "spuList": [
+                                "1000602"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "classifyId": 152,
+                    "classifyName": "数码配件",
+                    "sort": 1,
+                    "third": [
+                        {
+                            "classifyId": 190,
+                            "classifyName": "线材",
+                            "image": "https://resource.smartisan.com/resource/8e822aa7cbab24fec7eacf0bbb2f6526.jpg",
+                            "sort": 2,
+                            "spuList": [
+                                "1000530",
+                                "1000471",
+                                "1000609"
+                            ]
+                        },
+                        {
+                            "classifyId": 191,
+                            "classifyName": "充电器",
+                            "image": "https://resource.smartisan.com/resource/dc53bd870ee64d2053ecc51750ece43a.jpg",
+                            "sort": 3,
+                            "spuList": [
+                                "1000267",
+                                "1000470"
+                            ]
+                        },
+                        {
+                            "classifyId": 193,
+                            "classifyName": "耳机",
+                            "image": "https://resource.smartisan.com/resource/d159521e479b26f3c97a1e4f00a5aefd.jpg",
+                            "sort": 5,
+                            "spuList": [
+                                "1000428",
+                                "1000610"
+                            ]
+                        },
+                        {
+                            "classifyId": 194,
+                            "classifyName": "移动电源",
+                            "image": "https://resource.smartisan.com/resource/2d106f8a751539abba6f446d3cda7818.jpg",
+                            "sort": 6,
+                            "spuList": [
+                                "1000590"
+                            ]
+                        },
+                        {
+                            "classifyId": 195,
+                            "classifyName": "拍照配件",
+                            "image": "https://resource.smartisan.com/resource/f55641e23f35f6dd82226b6c4a043f00.jpg",
+                            "sort": 7,
+                            "spuList": [
+                                "1000529"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "classifyId": 184,
+            "classifyName": "官方配件",
+            "banner": [
+                {
+                    "image": "https://resource.smartisan.com/resource/d86d3c67694cbd51ca4c2494afe7d462.jpg",
+                    "url": "https://www.smartisan.com/category/185?type=shop"
+                }
+            ],
+            "sort": 1,
+            "second": [
+                {
+                    "classifyId": 185,
+                    "classifyName": "官方配件",
+                    "sort": 0,
+                    "third": [
+                        {
+                            "classifyId": 229,
+                            "classifyName": "手机壳",
+                            "image": "https://resource.smartisan.com/resource/54d4b35e44224a323ef734fe4ad478ad.jpg",
+                            "sort": 0,
+                            "spuList": [
+                                "1000607",
+                                "1000606",
+                                "1000605",
+                                "1000608",
+                                "1000638",
+                                "1000615",
+                                "1000614",
+                                "1000613",
+                                "1000612",
+                                "1000611",
+                                "1000604"
+                            ]
+                        },
+                        {
+                            "classifyId": 231,
+                            "classifyName": "数据线",
+                            "image": "https://resource.smartisan.com/resource/8635cb91f2cdbbc5576e069c52b99412.jpg",
+                            "sort": 2,
+                            "spuList": [
+                                "1000471",
+                                "1000530",
+                                "1000268",
+                                "1000591",
+                                1000609
+                            ]
+                        },
+                        {
+                            "classifyId": 232,
+                            "classifyName": "充电器",
+                            "image": "https://resource.smartisan.com/resource/a668d1a5f41b04ece82d76ded1e94d3a.jpg",
+                            "sort": 3,
+                            "spuList": [
+                                "1000470",
+                                "1000267"
+                            ]
+                        },
+                        {
+                            "classifyId": 234,
+                            "classifyName": "线控耳机",
+                            "image": "https://resource.smartisan.com/resource/ce632bd67465027861707ec221b37c2d.jpg",
+                            "sort": 5,
+                            "spuList": [
+                                "1000428"
+                            ]
+                        },
+                        {
+                            "classifyId": 235,
+                            "classifyName": "移动电源",
+                            "image": "https://resource.smartisan.com/resource/2d106f8a751539abba6f446d3cda7818.jpg",
+                            "sort": 6,
+                            "spuList": [
+                                "1000590",
+                                1000655
+                            ]
+                        },
+                        {
+                            "classifyId": 236,
+                            "classifyName": "拍照配件",
+                            "image": "https://resource.smartisan.com/resource/f55641e23f35f6dd82226b6c4a043f00.jpg",
+                            "sort": 7,
+                            "spuList": [
+                                "1000529"
+                            ]
+                        },
+                        {
+                            "classifyId": 238,
+                            "classifyName": "车载配件",
+                            "image": "https://resource.smartisan.com/resource/d4480234a2f24b0ff5acd98288fd902d.jpg",
+                            "sort": 9,
+                            "spuList": [
+                                "1000235"
+                            ]
+                        },
+                        {
+                            "classifyId": 252,
+                            "classifyName": "音箱 / 音响",
+                            "image": "https://resource.smartisan.com/resource/6e96ccea3bd56bdd2243eb20330cec30.jpg",
+                            "sort": 10,
+                            "spuList": [
+                                "1000528"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "classifyId": 157,
+            "classifyName": "鞋包服饰",
+            "banner": [
+                {
+                    "image": "https://resource.smartisan.com/resource/a465b95936de543aad792df97447c1a6.png",
+                    "url": "https://www.smartisan.com/category/205?type=shop"
+                }
+            ],
+            "sort": 2,
+            "second": [
+                {
+                    "classifyId": 165,
+                    "classifyName": "服饰",
+                    "sort": 0,
+                    "third": [
+                        {
+                            "classifyId": 202,
+                            "classifyName": "T恤",
+                            "image": "https://resource.smartisan.com/resource/24c6437342c9ea969e13f00b82f7e3e5.png",
+                            "sort": 0,
+                            "spuList": [
+                                "1000572",
+                                "1000573",
+                                "1000574",
+                                "1000575",
+                                "1000577",
+                                "1000578",
+                                "1000579"
+                            ]
+                        },
+                        {
+                            "classifyId": 203,
+                            "classifyName": "衬衫",
+                            "image": "https://resource.smartisan.com/resource/bd9dfcd772a20304bea6a5fed59d0f00.png",
+                            "sort": 1,
+                            "spuList": [
+                                "1000599"
+                            ]
+                        },
+                        {
+                            "classifyId": 204,
+                            "classifyName": "POLO衫",
+                            "image": "https://resource.smartisan.com/resource/ec1b30b9e3890471b9d9188e497e3873.jpg",
+                            "sort": 2,
+                            "spuList": [
+                                "1000409"
+                            ]
+                        },
+                        {
+                            "classifyId": 205,
+                            "classifyName": "卫衣",
+                            "image": "https://resource.smartisan.com/resource/bc50c28fff03c92035593887eb173d93.png",
+                            "sort": 3,
+                            "spuList": [
+                                "1000592",
+                                "1000593",
+                                "1000594",
+                                "1000595",
+                                "1000596",
+                                "1000597",
+                                "1000598",
+                                1000646
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "classifyId": 166,
+                    "classifyName": "鞋",
+                    "sort": 1,
+                    "third": [
+                        {
+                            "classifyId": 206,
+                            "classifyName": "帆布鞋",
+                            "image": "https://resource.smartisan.com/resource/578116bddf1d170c89e9af7ba5073fb6.jpg",
+                            "sort": 0,
+                            "spuList": [
+                                1000397
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "classifyId": 167,
+                    "classifyName": "箱包",
+                    "sort": 2,
+                    "third": [
+                        {
+                            "classifyId": 207,
+                            "classifyName": "拉杆箱",
+                            "image": "https://resource.smartisan.com/resource/db4895e45ee6f3339037dbf7200e63f2.png",
+                            "sort": 0,
+                            "spuList": [
+                                "1000533",
+                                "1000532",
+                                "1000588",
+                                "1000589",
+                                1000632,
+                                1000634,
+                                1000635,
+                                1000656
+                            ]
+                        },
+                        {
+                            "classifyId": 292,
+                            "classifyName": "背包",
+                            "image": "https://resource.smartisan.com/resource/25cd192a66e0dbd0f12dd723d1ea53f2.jpg",
+                            "sort": 1,
+                            "spuList": [
+                                "1000584"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "classifyId": 154,
+            "classifyName": "畅呼吸",
+            "banner": [
+                {
+                    "image": "https://resource.smartisan.com/resource/997a300deb0bb950ffd3ba8c34e2a8aa.png",
+                    "url": "https://www.smartisan.com/item/100033802"
+                }
+            ],
+            "sort": 3,
+            "second": [
+                {
+                    "classifyId": 155,
+                    "classifyName": "畅呼吸系列",
+                    "sort": 0,
+                    "third": [
+                        {
+                            "classifyId": 245,
+                            "classifyName": "空气净化器",
+                            "image": "https://resource.smartisan.com/resource/6ff92d05a3bfab4fad489ca04d3eea5a.png",
+                            "sort": 0,
+                            "spuList": [
+                                "1000338",
+                                "1000405"
+                            ]
+                        },
+                        {
+                            "classifyId": 299,
+                            "classifyName": "畅呼吸滤芯",
+                            "image": "https://resource.smartisan.com/resource/4d83d72c5ecc288e8d5ddd9d06b80f99.jpg",
+                            "sort": 4,
+                            "spuList": [
+                                "1000364",
+                                "1000365"
+                            ]
+                        },
+                        {
+                            "classifyId": 307,
+                            "classifyName": "温/湿度计",
+                            "image": "https://resource.smartisan.com/resource/8d58e1ea15e893647cb789478cb86627.jpg",
+                            "sort": 5,
+                            "spuList": [
+                                "1000618"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "classifyId": 142,
+            "classifyName": "家用电器",
+            "banner": [],
+            "sort": 5,
+            "second": [
+                {
+                    "classifyId": 143,
+                    "classifyName": "生活电器",
+                    "sort": 0,
+                    "third": [
+                        {
+                            "classifyId": 313,
+                            "classifyName": "扫地机器人",
+                            "image": "https://resource.smartisan.com/resource/b6db8976d3fe9a04b0a58dc82099838b.jpg",
+                            "sort": 3,
+                            "spuList": [
+                                1000642,
+                                1000643,
+                                1000644,
+                                1000645
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "classifyId": 161,
+            "classifyName": "电脑办公",
+            "banner": null,
+            "sort": 9,
+            "second": [
+                {
+                    "classifyId": 176,
+                    "classifyName": "显示屏",
+                    "sort": 1,
+                    "third": [
+                        {
+                            "classifyId": 218,
+                            "classifyName": "TNT显示屏",
+                            "image": "https://resource.smartisan.com/resource/84b472956d7facb9d7134f7569d3bd84.jpg",
+                            "sort": 0,
+                            "spuList": [
+                                1000648,
+                                1000649,
+                                1000650
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "classifyId": 266,
+                    "classifyName": "办公设备",
+                    "sort": 4,
+                    "third": [
+                        {
+                            "classifyId": 302,
+                            "classifyName": "打印机",
+                            "image": "https://resource.smartisan.com/resource/b8d357a7507b1337c75298fd67086b2a.jpg",
+                            "sort": 1,
+                            "spuList": [
+                                "1000621",
+                                "1000623",
+                                "1000624",
+                                "1000622",
+                                "1000633",
+                                "1000625",
+                                "1000630",
+                                "1000631",
+                                "1000626",
+                                "1000603",
+                                "1000620",
+                                "1000619"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
